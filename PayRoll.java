@@ -62,7 +62,7 @@ class PayRoll // To test the applications
               else if(actionCd == 2 && utilityFn.print2d(Wage.wageInfo) == 0 )
               {
                 Scanner ch = new Scanner(System.in);
-                System.out.println("There is not info of BasePlusCommissionEmployee ! [if you want to output about BasePlusCommissionEmployee , set employee info of BasePlusCommissionEmployee AGAIN !] ");
+                System.out.println("There is not info of BasePlusCommissionEmployee ! [if you want to output about BasePlusCommissionEmployee , set employee info of BasePlusCommissionEmployee AGAIN  or  'Enter' Key !] ");
                 ch.nextLine();
                 Wage.addingNum = 0;
               }
