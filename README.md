@@ -7,3 +7,6 @@ SmallDuty is a New Zealand IT company pays its employees on a weekly basis. The 
 •	Base-salaried commission employees receive a base salary plus a percentage of their sales. 
 
 For the current pay period, the company has decided to reward salaried-commission employees by adding 10% to their base salaries. The company wants you to write an application that performs its payroll calculations polymorphically. 
+
+
+![화면 캡처 2022-04-15 202545](https://user-images.githubusercontent.com/34477830/163546356-49d065cd-e312-4239-a3a7-02e406492734.png)
