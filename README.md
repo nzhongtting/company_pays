@@ -10,3 +10,5 @@ For the current pay period, the company has decided to reward salaried-commissio
 
 
 ![화면 캡처 2022-04-15 202545](https://user-images.githubusercontent.com/34477830/163546356-49d065cd-e312-4239-a3a7-02e406492734.png)
+
+![UML_assignment_20220403_2](https://user-images.githubusercontent.com/34477830/163604802-7e745d2b-b7e1-447d-82f0-e6314bd46204.png)
